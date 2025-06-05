@@ -17,7 +17,7 @@
 - 🐚 [42-Minishell](https://github.com/42-Minishell-Team-D/42-Minishell)  
   A minimal shell program that interprets and executes user commands, built from scratch in C.
 
-- 🎮 [Transcendence](https://github.com/TheFtTranscendence/Transcendence)
+- 🎮 [Transcendence](https://github.com/TheFtTranscendence/Transcendence)  
   A full-stack web application developed with JavaScript, featuring real-time multiplayer gaming and chat functionalities.
 
 - 📦 [42-push_swap](https://github.com/ddantas42/42-push_swap)  
@@ -29,9 +29,8 @@
 ---
 
 ## 🛠️ Technologies & Tools
-<a hef="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black">
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
-- **Languages:** C, C++, JavaScript, Shell
 - **Tools & Frameworks:** Docker, Git
 ---
 
