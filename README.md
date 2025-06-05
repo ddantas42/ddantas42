@@ -48,7 +48,3 @@
 Feel free to reach out or explore more of my work:
 - GitHub: [ddantas42](https://github.com/ddantas42)
 - LinkedIn: [Diogo Gonçalves](https://www.linkedin.com/in/diogo-gonçalves-794686272/)
-
----
-
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
