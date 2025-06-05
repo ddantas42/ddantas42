@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Diogo 😃
 
 🎓 42 Lisboa Graduate | Software Engineer
-🌱 Undertaking Bachelor's degree in Computer Science\n
+🌱 Undertaking Bachelor's degree in Computer Science   
 🇵🇹 Based in Lisbon, Portugal
 
 ---
