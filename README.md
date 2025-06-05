@@ -31,7 +31,7 @@ Here are some of the projects I've been working on:
 ---
 
 ## 🛠️ Technologies & Tools
-https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black
+<a hef="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black>
 ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
 - **Languages:** C, C++, JavaScript, Shell
 - **Tools & Frameworks:** Docker, Git
