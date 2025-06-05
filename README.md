@@ -1,5 +1,4 @@
-## Hi! I'm Diogo :D 😃
-# 👋 Hi there! I'm Diogo Dantas
+# 👋 Hi! I'm Diogo 😃
 
 🎓 42 Lisboa Graduate | Software Engineer
 🌱 Undertaking Bachelor's degree in Computer Scient  
