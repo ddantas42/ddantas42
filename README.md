@@ -1,4 +1,4 @@
-## Hi! I'm Diogo :D
+## Hi! I'm Diogo :D 😃
 
 <!--
 **ddantas42/ddantas42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
